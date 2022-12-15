@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Druk Wide Cyr';
+    src: url('./stuff/fonts/Druk Wide Cyr Medium.otf');
+}
+@font-face {
+    font-family: 'Inter';
+    
+    src:    url('./stuff/fonts/Inter-Regular.woff2') format('woff2'),
+            url('./stuff/fonts/Inter-Regular.woff') format('woff');
+}
+@layer utilities {
+    /* Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .no-scrollbar {
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+    }
+}
+.bgCircleTransparency{
+    background: rgba(79, 70, 229, 0.26);
+    box-shadow: inset 0px 4px 15px rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+}
+
+@keyframes opacityIn {
+    from {
+        opacity: 0%;
+    }
+    to {
+        opacity: 100%;
+    }
+}
+@keyframes opacityOut {
+    from {
+        opacity: 100%;
+    }
+    to {
+        opacity: 0%;
+    }
+}

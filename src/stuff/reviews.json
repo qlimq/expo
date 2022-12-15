@@ -1,0 +1,413 @@
+{
+	"meta": {
+		"branch_rating": 5,
+		"branch_reviews_count": 7,
+		"code": 200,
+		"providers": [
+			{
+				"tag": "flamp",
+				"is_reviewable": true
+			},
+			{
+				"tag": "2gis",
+				"is_reviewable": true
+			},
+			{
+				"tag": "booking",
+				"is_reviewable": true
+			},
+			{
+				"tag": "netmonet",
+				"is_reviewable": true
+			}
+		],
+		"total_count": 7
+	},
+	"reviews": [
+		{
+			"id": "37176544",
+			"region_id": 50,
+			"text": "круто учат",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 1,
+			"comments_count": 0,
+			"date_created": "2022-09-19T14:43:24.004832+07:00",
+			"date_edited": "2022-12-11T15:27:14.822075+07:00",
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "27141084",
+				"reviews_count": 6,
+				"first_name": "Влад Лич",
+				"last_name": null,
+				"name": "Влад Лич",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "https://i0.photo.2gis.com/images/profile/30258560078668169_2aeb_1920x.jpg",
+					"320x": "https://i0.photo.2gis.com/images/profile/30258560078668169_2aeb_320x.jpg",
+					"640x": "https://i0.photo.2gis.com/images/profile/30258560078668169_2aeb_640x.jpg",
+					"64x64": "https://i0.photo.2gis.com/images/profile/30258560078668169_2aeb_64x64.jpg",
+					"url": "https://i0.photo.2gis.com/images/profile/30258560078668169_2aeb.jpg"
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		},
+		{
+			"id": "39778837",
+			"region_id": 50,
+			"text": "Учуой нормальные учителя",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 0,
+			"comments_count": 0,
+			"date_created": "2022-11-14T10:44:38.752322+07:00",
+			"date_edited": null,
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "11050712",
+				"reviews_count": 4,
+				"first_name": "Nikolas Borisow",
+				"last_name": null,
+				"name": "Nikolas Borisow",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "",
+					"320x": "",
+					"640x": "",
+					"64x64": "",
+					"url": ""
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		},
+		{
+			"id": "39249316",
+			"region_id": 50,
+			"text": "Первый пробный урок впечатлил ребёнка. Я даже не ожидала восторга, так как нынешние дети инфантильные, безразличные. Сразу сказал, не как во дворце детства. Будем ходить, учиться 😃",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 0,
+			"comments_count": 0,
+			"date_created": "2022-11-03T11:59:47.138122+07:00",
+			"date_edited": null,
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "5641876",
+				"reviews_count": 5,
+				"first_name": "Анна Брагина",
+				"last_name": null,
+				"name": "Анна Брагина",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "https://i7.photo.2gis.com/images/profile/844424941396397_4857_1920x.jpg",
+					"320x": "https://i7.photo.2gis.com/images/profile/844424941396397_4857_320x.jpg",
+					"640x": "https://i7.photo.2gis.com/images/profile/844424941396397_4857_640x.jpg",
+					"64x64": "https://i7.photo.2gis.com/images/profile/844424941396397_4857_64x64.jpg",
+					"url": "https://i7.photo.2gis.com/images/profile/844424941396397_4857.jpg"
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		},
+		{
+			"id": "38919131",
+			"region_id": 50,
+			"text": "Хорошая школа, правда записались только после бесплатного урока)))",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 0,
+			"comments_count": 0,
+			"date_created": "2022-10-27T19:52:29.335456+07:00",
+			"date_edited": null,
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "30166356",
+				"reviews_count": 4,
+				"first_name": "Вера Лукина",
+				"last_name": null,
+				"name": "Вера Лукина",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "",
+					"320x": "",
+					"640x": "",
+					"64x64": "",
+					"url": ""
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		},
+		{
+			"id": "37317809",
+			"region_id": 50,
+			"text": "Жёсткий чел, хищник",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 1,
+			"comments_count": 0,
+			"date_created": "2022-09-22T00:32:07.810127+07:00",
+			"date_edited": null,
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "28473947",
+				"reviews_count": 2,
+				"first_name": "Никита Егоров",
+				"last_name": null,
+				"name": "Никита Егоров",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "",
+					"320x": "",
+					"640x": "",
+					"64x64": "",
+					"url": ""
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		},
+		{
+			"id": "36149641",
+			"region_id": 50,
+			"text": "👋👋😁 Дочке 9 лет, в августе ходила в этот лагерь. Очень понравилось. Многое узнала и многому научилась. Познакомилась с новыми людьми и нашла новых друзей.😁👍 Спасибо большое нашему вожатому Светлане Михайловне и всем преподавателям занятий и мастер классов! 🤗",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 1,
+			"comments_count": 0,
+			"date_created": "2022-08-30T11:57:23.303659+07:00",
+			"date_edited": null,
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "22069588",
+				"reviews_count": 1,
+				"first_name": "Viktoriya Lebedeva",
+				"last_name": null,
+				"name": "Viktoriya Lebedeva",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "https://i1.photo.2gis.com/images/profile/844424968427464_f611_1920x.jpg",
+					"320x": "https://i1.photo.2gis.com/images/profile/844424968427464_f611_320x.jpg",
+					"640x": "https://i1.photo.2gis.com/images/profile/844424968427464_f611_640x.jpg",
+					"64x64": "https://i1.photo.2gis.com/images/profile/844424968427464_f611_64x64.jpg",
+					"url": "https://i1.photo.2gis.com/images/profile/844424968427464_f611.jpg"
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		},
+		{
+			"id": "35971443",
+			"region_id": 50,
+			"text": "Хорошее обучение. Спасибо за летний лагерь! Мой сын теперь хочет стать программистом))) большое уважение преподавателю Дьулустану, вы супер)))",
+			"rating": 5,
+			"provider": "2gis",
+			"source": null,
+			"is_hidden": false,
+			"hiding_type": null,
+			"hiding_reason": null,
+			"url": "",
+			"likes_count": 3,
+			"comments_count": 0,
+			"date_created": "2022-08-26T19:11:15.560116+07:00",
+			"date_edited": null,
+			"object": {
+				"id": "70000001062853274",
+				"type": "branch"
+			},
+			"user": {
+				"id": "506914",
+				"reviews_count": 10,
+				"first_name": "Дмитрий Федурин",
+				"last_name": null,
+				"name": "Дмитрий Федурин",
+				"provider": "2gis",
+				"photo_preview_urls": {
+					"1920x": "",
+					"320x": "",
+					"640x": "",
+					"64x64": "",
+					"url": ""
+				},
+				"url": "",
+				"additional_data": {
+					"email": null
+				}
+			},
+			"official_answer": null,
+			"photos": [],
+			"additional_data": {
+				"status_history": [],
+				"has_unresolved_complaints": false,
+				"pin_status": "none",
+				"ip": "",
+				"user_agent": "",
+				"external_id": null,
+				"filtered_facts": null,
+				"is_unrated_permanently": null,
+				"is_liked": null
+			},
+			"on_moderation": false,
+			"is_rated": true,
+			"is_verified": false
+		}
+	]
+}
